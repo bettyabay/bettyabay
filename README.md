@@ -69,9 +69,11 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bettyabay&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=bettyabay&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bettyabay&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 ---
 
